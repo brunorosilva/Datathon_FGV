@@ -1,4 +1,8 @@
 # Datathon FGV - Grupo: snake_case
+<i> Autores: </i>
+Bruno Rodrigues (https://github.com/brunorosilva/)
+Pedro Gengo (https://github.com/pedrogengo/)
+Rafael Riciardi (https://github.com/rafaelriciardi/)
 ## Introdução
 Esse repositório foi desenvolvido durante o Datathon da FGV, cujo o tema era criptomoedas.
 <br>
