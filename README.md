@@ -1,5 +1,5 @@
 # Datathon FGV - Grupo: snake_case
-<i> Autores: </i>
+<i> Autores: </i><br>
 Bruno Rodrigues (https://github.com/brunorosilva/)<br>
 Pedro Gengo (https://github.com/pedrogengo/)<br>
 Rafael Riciardi (https://github.com/rafaelriciardi/)
